@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Chandra",
+      "age": 25,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
+    },
+    {
+      "name": "Suraj Yadav",
+      "age": "100",
+      "place": "Aligarh",
+      "batch_name": "WEB-13",
+      "profession": "FSD",
+      "id": 2
+    },
+    {
+      "name": "Suraj",
+      "age": "20",
+      "place": "Aligarh",
+      "batch_name": "WEB-13",
+      "profession": "Backend",
+      "id": 3
+    }
+  ]
+}
